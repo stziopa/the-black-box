@@ -5,10 +5,9 @@ In order to reduce carbon-dioxide emissions we must rise awareness of the way en
 The project has been developed during the 11th edition of PIF camp (27 July – 2 August 2025) in Soča, Slovenia
 
 ## BOM
-
-. ESP8266 development board
-. 5VDC 250V 10A single channel relay
-. WS2812B LED
++ ESP8266 development board
++ 5VDC 250V 10A single channel relay
++ WS2812B LED
 
 
 
