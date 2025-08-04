@@ -3,8 +3,8 @@ The Black Box is a smart “energy aware” plug which requests carbon-dioxide i
 
 *In order to reduce carbon-dioxide emissions we must rise awareness of the way energy is produced and delivered. How our daily routines would change if we were forced to reduce our energy consumption? How long will it take until we reach the zero and what will be next?*
 
-The project has been developed during the 11th edition of PIF camp (27 July – 2 August 2025) in Soča, Slovenia. 
-Special thanks to Berhard Rasinger's for his Energy Awareness workshop and assembly help and to Uroš from PIFcamp team for showing the web app.
+The project has been developed during the 11th edition of [PIF camp](https://pif.camp/what-is-pifcamp/) (27 July – 2 August 2025) in Soča, Slovenia. 
+Special thanks to [Berhard Rasinger](https://www.br-laser.com)'s for his Energy Awareness workshop and assembly help and to Uroš from PIF camp team for demoing the web app.
 
 ## BOM
 + ESP8266 development board
@@ -25,7 +25,6 @@ Note: mostly relay modules are rated 10A and don't have a fuse box so it's recom
 **Please be aware that** interfacing to the main grid power can be extremely dangerous so please don't do it until you really know how to operate it in safe conditions!
 
 ### Links:
-[About PIFcamp](https://pif.camp/what-is-pifcamp/)
 
 [Energy Awareness workshop by Berhard Rasinger](https://pif.camp/pifcamp-s11-e01-god-of-light-intro/)
 
